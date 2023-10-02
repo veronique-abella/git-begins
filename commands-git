@@ -1,0 +1,12 @@
+La commande à utiliser pour cloner un repository : 
+- git clone liendurepository
+
+Les 3 commandes push : 
+
+- git add .
+- git commit -m"nomducommit"
+- git push
+
+La commande pull :
+- git pull
+
