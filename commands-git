@@ -7,6 +7,6 @@ Les 3 commandes push :
 - git commit -m"nomducommit"
 - git push
 
-La commande pull :
+Commande pull :
 - git pull
 
